@@ -6,4 +6,6 @@ r - Clear cells and randomly generate a pattern
 s - Stop and Run
 Left Mouse Button - Make living cell.
 
+
+
 ![image](https://github.com/user-attachments/assets/d472c97e-87a0-426c-95c1-1d2accf79500)
